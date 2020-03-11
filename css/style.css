@@ -55,7 +55,6 @@
   text-decoration: none;
   display: block;
 }
-
 .dropdown-content a:hover {background-color:}
 
 .dropdown:hover .dropdown-content {display: block;}
