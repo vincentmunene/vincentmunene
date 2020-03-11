@@ -1,9 +1,9 @@
 .top{
 	background: url(../images/general/bgTop.jpg)
-	
+	margin-top: 33px;
+	margin-bottom: 33px;	
 }
 #menu{
-	//margin-top: 33px;
 	margin-top: 33px;
 	float: right;
 }
