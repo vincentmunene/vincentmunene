@@ -71,6 +71,10 @@
 .dropdown:hover .dropdown-content {display: block;}
 
 .dropdown:hover .dropbtn {background-color:;}
+.team img{
+	width: 200px;
+	height: 200px;
+}
 .page{
 	text-align: center;
 	font-family: 'courier new';
