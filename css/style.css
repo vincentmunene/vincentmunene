@@ -41,7 +41,7 @@
 }
 #menu li a{
 	color:#fff;
-	text-decoration:none;
+	text-decoration: none;
 }
 .dropbtn {
   background-color: transparent;
@@ -81,6 +81,10 @@
 	margin-left: auto;
 	margin-right: auto;
 	display: block;
+}
+.col-sm-3 img{
+	width: 292px;
+	height: 192px;
 }
 .page{
 	text-align: center;
