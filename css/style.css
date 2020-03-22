@@ -91,6 +91,22 @@
 	font-family: 'courier new';
 	font-size: 14px;
 }
+.info h1{
+	text-align: center;
+	font-family: 'courier new';
+	font-size: 20px;
+	margin-bottom: 33px;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+.stuck h1{
+	text-align: center;
+}
+.stuck li{
+	margin-left: 107px;
+	margin-right: 107px;
+	margin-bottom: 7px;
+}
 #contacts{
 	padding-top: 30px;
 	padding-bottom: 50px;
